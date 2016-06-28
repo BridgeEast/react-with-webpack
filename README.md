@@ -5,3 +5,4 @@ quick start with react
 * Clone repo
 * run `npm install`
 * run `npm start -s`
+* write your code
